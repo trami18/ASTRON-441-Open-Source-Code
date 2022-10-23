@@ -9,7 +9,8 @@ This code plots fitted light curves of Type Ia Supernovae using ZTF (G-Band) dat
   * https://pypi.org/project/csv-reader/
   
 ## Step 1: Instructions for how to use this simple code:
-1. Clone this repository or Download all of the files manually. 
+1. Clone this repository by clicking the green **Code** button at the top of this page or Download all of the files manually. 
+ 
 2. Run the jupyter notebook.
    
 </details>
